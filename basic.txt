@@ -1,2 +1,5 @@
 basic understanding for git merge
+
+currently i am in quicktest
 now i am in master branch
+
