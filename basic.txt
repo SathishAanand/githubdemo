@@ -1,1 +1,2 @@
 basic understanding for git merge
+now i am in master branch
